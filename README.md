@@ -48,22 +48,17 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AmirezaEb/count.svg?"  />
-</div>
-
-###
 <h2 align="left">Links</h2>
 
 ###
 <div align="left">
-  <a href="https://instagram.com/farzadnari.ig" target="_blank">
+  <a href="https://instagram.com/amireza._.eb" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://telegram.me/farzadnaritg" target="_blank">
+  <a href="https://telegram.me/a_m_b_r" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-  <a href="farzadnari10@gmail.com" target="_blank">
+  <a href="aabrahimi1718@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
