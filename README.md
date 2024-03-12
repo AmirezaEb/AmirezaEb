@@ -42,7 +42,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirezaEb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-stats-alpha.vercel.app/api?username=AmirezaEb&cc=22272e&tc=37BCF6&ic=AE87FF&bc=AE87FF" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmirezaEb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -53,7 +53,9 @@
 </div>
 
 ###
+<h2 align="left">Links</h2>
 
+###
 <div align="left">
   <a href="https://instagram.com/farzadnari.ig" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
@@ -67,8 +69,5 @@
 </div>
 
 ###
-<h2 align="left">Links</h2>
-###
- <a href="https://github.com/AmirezaEb">
-    <img src="https://github-stats-alpha.vercel.app/api?username=AmirezaEb&cc=22272e&tc=37BCF6&ic=AE87FF&bc=AE87FF">
-</a>
+
+
