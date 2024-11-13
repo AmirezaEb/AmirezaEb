@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">🦅 ENTJ Personality Type<br>🚀 Php, Laravel ...<br>📚 I'm Eager To Learn ...</p>
+<p align="left">🦅 ENTJ-A Personality Type<br>🚀 Php, Laravel ...<br>📚 I'm Eager To Learn ...</p>
 
 ###
 
